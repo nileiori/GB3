@@ -1,0 +1,246 @@
+Dependencies for Project 'GD32F1XX-boot', Target 'GD32F1XX': (DO NOT MODIFY !)
+F (..\USER\main.c)(0x5BF268DA)(-c --cpu Cortex-M3 -g -O0 -Otime --apcs=interwork -I..\LIB\STM32F10x_StdPeriph_Driver\inc -I..\USER -I..\LIB\CMSIS\Core\CM3\startup\arm -I..\LIB\CMSIS\Core\CM3 -I..\LIB\FAT_FS\inc -I..\LIB\USB_App\inc -I..\LIB\USB_Driver\inc -I..\LIB\USB_Lib\Library\Class\MSC\inc -I..\LIB\USB_Lib\Library\Core\inc-I d:\Keil\ARM\RV31\INC-I d:\Keil\ARM\CMSIS\Include-I d:\Keil\ARM\Inc\GD\GD32F10x-DGD32F10X_CL-o .\obj\main.o --omf_browse .\obj\main.crf --depend .\obj\main.d)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\CMSIS\Core\CM3\stm32f10x.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\CMSIS\Core\CM3\core_cm3.h)(0x5B2A0BD8)
+I (d:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\CMSIS\Core\CM3\system_stm32f10x.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\USER\stm32f10x_conf.h)(0x5BEE1472)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x5B2A0BD8)
+I (d:\Keil\ARM\ARMCC\include\string.h)(0x51C7B744)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\USER\spi_flash.h)(0x5B2A0BDC)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\USER\spi_flash_app.h)(0x5B2A0BDC)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\USER\fm25c160.h)(0x5B2A0BDC)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\USER\E2prom_25LC320A.h)(0x5B2A0BDC)
+F (..\USER\stm32f10x_it.c)(0x5BED3AD8)(-c --cpu Cortex-M3 -g -O0 -Otime --apcs=interwork -I..\LIB\STM32F10x_StdPeriph_Driver\inc -I..\USER -I..\LIB\CMSIS\Core\CM3\startup\arm -I..\LIB\CMSIS\Core\CM3 -I..\LIB\FAT_FS\inc -I..\LIB\USB_App\inc -I..\LIB\USB_Driver\inc -I..\LIB\USB_Lib\Library\Class\MSC\inc -I..\LIB\USB_Lib\Library\Core\inc-I d:\Keil\ARM\RV31\INC-I d:\Keil\ARM\CMSIS\Include-I d:\Keil\ARM\Inc\GD\GD32F10x-DGD32F10X_CL-o .\obj\stm32f10x_it.o --omf_browse .\obj\stm32f10x_it.crf --depend .\obj\stm32f10x_it.d)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\USER\stm32f10x_it.h)(0x5B2A0BDC)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\CMSIS\Core\CM3\stm32f10x.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\CMSIS\Core\CM3\core_cm3.h)(0x5B2A0BD8)
+I (d:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\CMSIS\Core\CM3\system_stm32f10x.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\USER\stm32f10x_conf.h)(0x5BEE1472)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x5B2A0BD8)
+F (..\USER\spi_flash.c)(0x5BECE31E)(-c --cpu Cortex-M3 -g -O0 -Otime --apcs=interwork -I..\LIB\STM32F10x_StdPeriph_Driver\inc -I..\USER -I..\LIB\CMSIS\Core\CM3\startup\arm -I..\LIB\CMSIS\Core\CM3 -I..\LIB\FAT_FS\inc -I..\LIB\USB_App\inc -I..\LIB\USB_Driver\inc -I..\LIB\USB_Lib\Library\Class\MSC\inc -I..\LIB\USB_Lib\Library\Core\inc-I d:\Keil\ARM\RV31\INC-I d:\Keil\ARM\CMSIS\Include-I d:\Keil\ARM\Inc\GD\GD32F10x-DGD32F10X_CL-o .\obj\spi_flash.o --omf_browse .\obj\spi_flash.crf --depend .\obj\spi_flash.d)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\USER\spi_flash.h)(0x5B2A0BDC)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\CMSIS\Core\CM3\stm32f10x.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\CMSIS\Core\CM3\core_cm3.h)(0x5B2A0BD8)
+I (d:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\CMSIS\Core\CM3\system_stm32f10x.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\USER\stm32f10x_conf.h)(0x5BEE1472)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\USER\spi_flash_app.h)(0x5B2A0BDC)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x5B2A0BD8)
+F (..\USER\spi_flash_app.c)(0x5B2A0BDC)(-c --cpu Cortex-M3 -g -O0 -Otime --apcs=interwork -I..\LIB\STM32F10x_StdPeriph_Driver\inc -I..\USER -I..\LIB\CMSIS\Core\CM3\startup\arm -I..\LIB\CMSIS\Core\CM3 -I..\LIB\FAT_FS\inc -I..\LIB\USB_App\inc -I..\LIB\USB_Driver\inc -I..\LIB\USB_Lib\Library\Class\MSC\inc -I..\LIB\USB_Lib\Library\Core\inc-I d:\Keil\ARM\RV31\INC-I d:\Keil\ARM\CMSIS\Include-I d:\Keil\ARM\Inc\GD\GD32F10x-DGD32F10X_CL-o .\obj\spi_flash_app.o --omf_browse .\obj\spi_flash_app.crf --depend .\obj\spi_flash_app.d)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\CMSIS\Core\CM3\stm32f10x.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\CMSIS\Core\CM3\core_cm3.h)(0x5B2A0BD8)
+I (d:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\CMSIS\Core\CM3\system_stm32f10x.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\USER\stm32f10x_conf.h)(0x5BEE1472)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\USER\spi_flash.h)(0x5B2A0BDC)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\USER\spi_flash_app.h)(0x5B2A0BDC)
+I (d:\Keil\ARM\ARMCC\include\string.h)(0x51C7B744)
+F (..\USER\E2prom_25LC320A.c)(0x5B2A0BDC)(-c --cpu Cortex-M3 -g -O0 -Otime --apcs=interwork -I..\LIB\STM32F10x_StdPeriph_Driver\inc -I..\USER -I..\LIB\CMSIS\Core\CM3\startup\arm -I..\LIB\CMSIS\Core\CM3 -I..\LIB\FAT_FS\inc -I..\LIB\USB_App\inc -I..\LIB\USB_Driver\inc -I..\LIB\USB_Lib\Library\Class\MSC\inc -I..\LIB\USB_Lib\Library\Core\inc-I d:\Keil\ARM\RV31\INC-I d:\Keil\ARM\CMSIS\Include-I d:\Keil\ARM\Inc\GD\GD32F10x-DGD32F10X_CL-o .\obj\e2prom_25lc320a.o --omf_browse .\obj\e2prom_25lc320a.crf --depend .\obj\e2prom_25lc320a.d)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\CMSIS\Core\CM3\stm32f10x.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\CMSIS\Core\CM3\core_cm3.h)(0x5B2A0BD8)
+I (d:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\CMSIS\Core\CM3\system_stm32f10x.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\USER\stm32f10x_conf.h)(0x5BEE1472)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\USER\spi_flash.h)(0x5B2A0BDC)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\USER\E2prom_25LC320A.h)(0x5B2A0BDC)
+F (..\USER\crc.c)(0x5B2A0BDC)(-c --cpu Cortex-M3 -g -O0 -Otime --apcs=interwork -I..\LIB\STM32F10x_StdPeriph_Driver\inc -I..\USER -I..\LIB\CMSIS\Core\CM3\startup\arm -I..\LIB\CMSIS\Core\CM3 -I..\LIB\FAT_FS\inc -I..\LIB\USB_App\inc -I..\LIB\USB_Driver\inc -I..\LIB\USB_Lib\Library\Class\MSC\inc -I..\LIB\USB_Lib\Library\Core\inc-I d:\Keil\ARM\RV31\INC-I d:\Keil\ARM\CMSIS\Include-I d:\Keil\ARM\Inc\GD\GD32F10x-DGD32F10X_CL-o .\obj\crc.o --omf_browse .\obj\crc.crf --depend .\obj\crc.d)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\CMSIS\Core\CM3\stm32f10x.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\CMSIS\Core\CM3\core_cm3.h)(0x5B2A0BD8)
+I (d:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\CMSIS\Core\CM3\system_stm32f10x.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\USER\stm32f10x_conf.h)(0x5BEE1472)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x5B2A0BD8)
+F (..\LIB\STM32F10x_StdPeriph_Driver\src\misc.c)(0x5B2A0BD8)(-c --cpu Cortex-M3 -g -O0 -Otime --apcs=interwork -I..\LIB\STM32F10x_StdPeriph_Driver\inc -I..\USER -I..\LIB\CMSIS\Core\CM3\startup\arm -I..\LIB\CMSIS\Core\CM3 -I..\LIB\FAT_FS\inc -I..\LIB\USB_App\inc -I..\LIB\USB_Driver\inc -I..\LIB\USB_Lib\Library\Class\MSC\inc -I..\LIB\USB_Lib\Library\Core\inc-I d:\Keil\ARM\RV31\INC-I d:\Keil\ARM\CMSIS\Include-I d:\Keil\ARM\Inc\GD\GD32F10x-DGD32F10X_CL-o .\obj\misc.o --omf_browse .\obj\misc.crf --depend .\obj\misc.d)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\CMSIS\Core\CM3\stm32f10x.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\CMSIS\Core\CM3\core_cm3.h)(0x5B2A0BD8)
+I (d:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\CMSIS\Core\CM3\system_stm32f10x.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\USER\stm32f10x_conf.h)(0x5BEE1472)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x5B2A0BD8)
+F (..\LIB\STM32F10x_StdPeriph_Driver\src\stm32f10x_crc.c)(0x5B2A0BD8)(-c --cpu Cortex-M3 -g -O0 -Otime --apcs=interwork -I..\LIB\STM32F10x_StdPeriph_Driver\inc -I..\USER -I..\LIB\CMSIS\Core\CM3\startup\arm -I..\LIB\CMSIS\Core\CM3 -I..\LIB\FAT_FS\inc -I..\LIB\USB_App\inc -I..\LIB\USB_Driver\inc -I..\LIB\USB_Lib\Library\Class\MSC\inc -I..\LIB\USB_Lib\Library\Core\inc-I d:\Keil\ARM\RV31\INC-I d:\Keil\ARM\CMSIS\Include-I d:\Keil\ARM\Inc\GD\GD32F10x-DGD32F10X_CL-o .\obj\stm32f10x_crc.o --omf_browse .\obj\stm32f10x_crc.crf --depend .\obj\stm32f10x_crc.d)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_crc.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\CMSIS\Core\CM3\stm32f10x.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\CMSIS\Core\CM3\core_cm3.h)(0x5B2A0BD8)
+I (d:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\CMSIS\Core\CM3\system_stm32f10x.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\USER\stm32f10x_conf.h)(0x5BEE1472)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x5B2A0BD8)
+F (..\LIB\STM32F10x_StdPeriph_Driver\src\stm32f10x_flash.c)(0x5B2A0BD8)(-c --cpu Cortex-M3 -g -O0 -Otime --apcs=interwork -I..\LIB\STM32F10x_StdPeriph_Driver\inc -I..\USER -I..\LIB\CMSIS\Core\CM3\startup\arm -I..\LIB\CMSIS\Core\CM3 -I..\LIB\FAT_FS\inc -I..\LIB\USB_App\inc -I..\LIB\USB_Driver\inc -I..\LIB\USB_Lib\Library\Class\MSC\inc -I..\LIB\USB_Lib\Library\Core\inc-I d:\Keil\ARM\RV31\INC-I d:\Keil\ARM\CMSIS\Include-I d:\Keil\ARM\Inc\GD\GD32F10x-DGD32F10X_CL-o .\obj\stm32f10x_flash.o --omf_browse .\obj\stm32f10x_flash.crf --depend .\obj\stm32f10x_flash.d)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\CMSIS\Core\CM3\stm32f10x.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\CMSIS\Core\CM3\core_cm3.h)(0x5B2A0BD8)
+I (d:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\CMSIS\Core\CM3\system_stm32f10x.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\USER\stm32f10x_conf.h)(0x5BEE1472)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x5B2A0BD8)
+F (..\LIB\STM32F10x_StdPeriph_Driver\src\stm32f10x_gpio.c)(0x5B2A0BD8)(-c --cpu Cortex-M3 -g -O0 -Otime --apcs=interwork -I..\LIB\STM32F10x_StdPeriph_Driver\inc -I..\USER -I..\LIB\CMSIS\Core\CM3\startup\arm -I..\LIB\CMSIS\Core\CM3 -I..\LIB\FAT_FS\inc -I..\LIB\USB_App\inc -I..\LIB\USB_Driver\inc -I..\LIB\USB_Lib\Library\Class\MSC\inc -I..\LIB\USB_Lib\Library\Core\inc-I d:\Keil\ARM\RV31\INC-I d:\Keil\ARM\CMSIS\Include-I d:\Keil\ARM\Inc\GD\GD32F10x-DGD32F10X_CL-o .\obj\stm32f10x_gpio.o --omf_browse .\obj\stm32f10x_gpio.crf --depend .\obj\stm32f10x_gpio.d)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\CMSIS\Core\CM3\stm32f10x.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\CMSIS\Core\CM3\core_cm3.h)(0x5B2A0BD8)
+I (d:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\CMSIS\Core\CM3\system_stm32f10x.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\USER\stm32f10x_conf.h)(0x5BEE1472)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x5B2A0BD8)
+F (..\LIB\STM32F10x_StdPeriph_Driver\src\stm32f10x_iwdg.c)(0x5B2A0BD8)(-c --cpu Cortex-M3 -g -O0 -Otime --apcs=interwork -I..\LIB\STM32F10x_StdPeriph_Driver\inc -I..\USER -I..\LIB\CMSIS\Core\CM3\startup\arm -I..\LIB\CMSIS\Core\CM3 -I..\LIB\FAT_FS\inc -I..\LIB\USB_App\inc -I..\LIB\USB_Driver\inc -I..\LIB\USB_Lib\Library\Class\MSC\inc -I..\LIB\USB_Lib\Library\Core\inc-I d:\Keil\ARM\RV31\INC-I d:\Keil\ARM\CMSIS\Include-I d:\Keil\ARM\Inc\GD\GD32F10x-DGD32F10X_CL-o .\obj\stm32f10x_iwdg.o --omf_browse .\obj\stm32f10x_iwdg.crf --depend .\obj\stm32f10x_iwdg.d)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_iwdg.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\CMSIS\Core\CM3\stm32f10x.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\CMSIS\Core\CM3\core_cm3.h)(0x5B2A0BD8)
+I (d:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\CMSIS\Core\CM3\system_stm32f10x.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\USER\stm32f10x_conf.h)(0x5BEE1472)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x5B2A0BD8)
+F (..\LIB\STM32F10x_StdPeriph_Driver\src\stm32f10x_rcc.c)(0x5B2A0BD8)(-c --cpu Cortex-M3 -g -O0 -Otime --apcs=interwork -I..\LIB\STM32F10x_StdPeriph_Driver\inc -I..\USER -I..\LIB\CMSIS\Core\CM3\startup\arm -I..\LIB\CMSIS\Core\CM3 -I..\LIB\FAT_FS\inc -I..\LIB\USB_App\inc -I..\LIB\USB_Driver\inc -I..\LIB\USB_Lib\Library\Class\MSC\inc -I..\LIB\USB_Lib\Library\Core\inc-I d:\Keil\ARM\RV31\INC-I d:\Keil\ARM\CMSIS\Include-I d:\Keil\ARM\Inc\GD\GD32F10x-DGD32F10X_CL-o .\obj\stm32f10x_rcc.o --omf_browse .\obj\stm32f10x_rcc.crf --depend .\obj\stm32f10x_rcc.d)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\CMSIS\Core\CM3\stm32f10x.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\CMSIS\Core\CM3\core_cm3.h)(0x5B2A0BD8)
+I (d:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\CMSIS\Core\CM3\system_stm32f10x.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\USER\stm32f10x_conf.h)(0x5BEE1472)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x5B2A0BD8)
+F (..\LIB\STM32F10x_StdPeriph_Driver\src\stm32f10x_spi.c)(0x5B2A0BD8)(-c --cpu Cortex-M3 -g -O0 -Otime --apcs=interwork -I..\LIB\STM32F10x_StdPeriph_Driver\inc -I..\USER -I..\LIB\CMSIS\Core\CM3\startup\arm -I..\LIB\CMSIS\Core\CM3 -I..\LIB\FAT_FS\inc -I..\LIB\USB_App\inc -I..\LIB\USB_Driver\inc -I..\LIB\USB_Lib\Library\Class\MSC\inc -I..\LIB\USB_Lib\Library\Core\inc-I d:\Keil\ARM\RV31\INC-I d:\Keil\ARM\CMSIS\Include-I d:\Keil\ARM\Inc\GD\GD32F10x-DGD32F10X_CL-o .\obj\stm32f10x_spi.o --omf_browse .\obj\stm32f10x_spi.crf --depend .\obj\stm32f10x_spi.d)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\CMSIS\Core\CM3\stm32f10x.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\CMSIS\Core\CM3\core_cm3.h)(0x5B2A0BD8)
+I (d:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\CMSIS\Core\CM3\system_stm32f10x.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\USER\stm32f10x_conf.h)(0x5BEE1472)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x5B2A0BD8)
+F (..\LIB\STM32F10x_StdPeriph_Driver\src\stm32f10x_bkp.c)(0x5B2A0BD8)(-c --cpu Cortex-M3 -g -O0 -Otime --apcs=interwork -I..\LIB\STM32F10x_StdPeriph_Driver\inc -I..\USER -I..\LIB\CMSIS\Core\CM3\startup\arm -I..\LIB\CMSIS\Core\CM3 -I..\LIB\FAT_FS\inc -I..\LIB\USB_App\inc -I..\LIB\USB_Driver\inc -I..\LIB\USB_Lib\Library\Class\MSC\inc -I..\LIB\USB_Lib\Library\Core\inc-I d:\Keil\ARM\RV31\INC-I d:\Keil\ARM\CMSIS\Include-I d:\Keil\ARM\Inc\GD\GD32F10x-DGD32F10X_CL-o .\obj\stm32f10x_bkp.o --omf_browse .\obj\stm32f10x_bkp.crf --depend .\obj\stm32f10x_bkp.d)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\CMSIS\Core\CM3\stm32f10x.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\CMSIS\Core\CM3\core_cm3.h)(0x5B2A0BD8)
+I (d:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\CMSIS\Core\CM3\system_stm32f10x.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\USER\stm32f10x_conf.h)(0x5BEE1472)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x5B2A0BD8)
+F (..\LIB\STM32F10x_StdPeriph_Driver\src\stm32f10x_pwr.c)(0x5B2A0BD8)(-c --cpu Cortex-M3 -g -O0 -Otime --apcs=interwork -I..\LIB\STM32F10x_StdPeriph_Driver\inc -I..\USER -I..\LIB\CMSIS\Core\CM3\startup\arm -I..\LIB\CMSIS\Core\CM3 -I..\LIB\FAT_FS\inc -I..\LIB\USB_App\inc -I..\LIB\USB_Driver\inc -I..\LIB\USB_Lib\Library\Class\MSC\inc -I..\LIB\USB_Lib\Library\Core\inc-I d:\Keil\ARM\RV31\INC-I d:\Keil\ARM\CMSIS\Include-I d:\Keil\ARM\Inc\GD\GD32F10x-DGD32F10X_CL-o .\obj\stm32f10x_pwr.o --omf_browse .\obj\stm32f10x_pwr.crf --depend .\obj\stm32f10x_pwr.d)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\CMSIS\Core\CM3\stm32f10x.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\CMSIS\Core\CM3\core_cm3.h)(0x5B2A0BD8)
+I (d:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\CMSIS\Core\CM3\system_stm32f10x.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\USER\stm32f10x_conf.h)(0x5BEE1472)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x5B2A0BD8)
+F (..\LIB\CMSIS\Core\CM3\core_cm3.c)(0x5B2A0BD8)(-c --cpu Cortex-M3 -g -O0 -Otime --apcs=interwork -I..\LIB\STM32F10x_StdPeriph_Driver\inc -I..\USER -I..\LIB\CMSIS\Core\CM3\startup\arm -I..\LIB\CMSIS\Core\CM3 -I..\LIB\FAT_FS\inc -I..\LIB\USB_App\inc -I..\LIB\USB_Driver\inc -I..\LIB\USB_Lib\Library\Class\MSC\inc -I..\LIB\USB_Lib\Library\Core\inc-I d:\Keil\ARM\RV31\INC-I d:\Keil\ARM\CMSIS\Include-I d:\Keil\ARM\Inc\GD\GD32F10x-DGD32F10X_CL-o .\obj\core_cm3.o --omf_browse .\obj\core_cm3.crf --depend .\obj\core_cm3.d)
+I (d:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+F (..\LIB\CMSIS\Core\CM3\system_stm32f10x.c)(0x5B2A0BD8)(-c --cpu Cortex-M3 -g -O0 -Otime --apcs=interwork -I..\LIB\STM32F10x_StdPeriph_Driver\inc -I..\USER -I..\LIB\CMSIS\Core\CM3\startup\arm -I..\LIB\CMSIS\Core\CM3 -I..\LIB\FAT_FS\inc -I..\LIB\USB_App\inc -I..\LIB\USB_Driver\inc -I..\LIB\USB_Lib\Library\Class\MSC\inc -I..\LIB\USB_Lib\Library\Core\inc-I d:\Keil\ARM\RV31\INC-I d:\Keil\ARM\CMSIS\Include-I d:\Keil\ARM\Inc\GD\GD32F10x-DGD32F10X_CL-o .\obj\system_stm32f10x.o --omf_browse .\obj\system_stm32f10x.crf --depend .\obj\system_stm32f10x.d)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\CMSIS\Core\CM3\stm32f10x.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\CMSIS\Core\CM3\core_cm3.h)(0x5B2A0BD8)
+I (d:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\CMSIS\Core\CM3\system_stm32f10x.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\USER\stm32f10x_conf.h)(0x5BEE1472)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x5B2A0BD8)
+I (E:\workStation\SVN\EGS701GB-III\trunk\FW\src\boot\GD32F1XX - boot\GD32F1XX - boot2\LIB\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x5B2A0BD8)
+F (..\LIB\CMSIS\Core\CM3\startup\arm\startup_stm32f10x_cl.s)(0x5B2A0BD8)(--cpu Cortex-M3 -g --apcs=interwork --cpreproc-I d:\Keil\ARM\RV31\INC-I d:\Keil\ARM\CMSIS\Include-I d:\Keil\ARM\Inc\GD\GD32F10x--list .\list\startup_stm32f10x_cl.lst --xref -o .\obj\startup_stm32f10x_cl.o --depend .\obj\startup_stm32f10x_cl.d)

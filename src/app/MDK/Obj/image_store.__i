@@ -1,0 +1,6 @@
+--c99 -c --cpu Cortex-M3 -g -O0 -Otime --apcs=interwork -I ..\CMSIS\Core\CM3\startup\arm -I ..\CMSIS\Core\CM3 -I ..\src -I ..\src\MODEM -I ..\src\PRINT -I ..\src\VDR -I ..\..\..\lib\FAT_FS\src -I ..\..\..\lib\FAT_FS\src\option -I ..\..\..\lib\FAT_FS\inc -I ..\..\..\lib\STM32F10x_StdPeriph_Driver\src -I ..\..\..\lib\STM32F10x_StdPeriph_Driver\inc -I ..\..\..\lib\USB_App\inc -I ..\..\..\lib\USB_App\src -I ..\..\..\lib\USB_Driver\inc -I ..\..\..\lib\USB_Driver\src -I ..\..\..\lib\USB_Lib\Library\Class\MSC -I ..\..\..\lib\USB_Lib\Library\Core\src -I ..\..\..\lib\USB_Lib\Library\Core\inc -I ..\..\..\lib\USB_Lib\Library\Class\MSC\src -I ..\..\..\lib\USB_Lib\Library\Class\MSC\inc --diag_suppress=1
+-I.\RTE\_EGS701-III
+-Id:\Keil_v5\ARM\PACK\Keil\GD32F1xx_DFP\1.1.0\Device\GD32F10x\Include
+-Id:\Keil_v5\ARM\CMSIS\Include
+-D__UVISION_VERSION="523" -DGD32F10X_CL -DUSE_STDPERIPH_DRIVER -DSTM32F10X_CL -DEYE_MODEM -DEYE_EGS701 -DTTS_MODEM
+-o .\obj\image_store.o --omf_browse .\obj\image_store.crf --depend .\obj\image_store.d "..\src\Image_Store.c"
